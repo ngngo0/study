@@ -38,4 +38,4 @@ Use it for linking, or a placeholder for linking. Link things like images, or li
 ### Sources:
 (https://www.w3schools.com/tags/tag_a.asp)
 
-[Link to the simple demo](/a_tag/01%20desc)
+[Link to the simple demo](https://ngngo0.github.io/study/a_tag/01desc.html)

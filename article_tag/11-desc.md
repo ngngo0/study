@@ -23,4 +23,4 @@ Note: The <article> element does not render as anything special in a browser. Ho
 ### My summary:
 A semantic tag, so really its just a matter of organizing it. It belongs in contexts like forum posts, blog post, news stories and anything article-y in nature. Can be used to increase readability and be used for organized styling. 
 
-[Link to the simple demo](/article_tag/12%20simple%20demo.html)
+[Link to the simple demo](/article_tag/12-simple-demo.html)
