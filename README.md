@@ -5,7 +5,7 @@ To study HTMl
 2) inline semantic <time\>
 3) block semantic <article\>
 4) head element <title\>
-5) interactive simple <a\>
+~~5) interactive simple <a\>~~
 6) interactive adv <details\>
 7) media <audio\>
 8) misc <ruby\>
