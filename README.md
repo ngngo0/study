@@ -1,15 +1,15 @@
 # Study Repo
 To study HTMl
 
-1) inline presentational <b>
-2) inline semantic <time>
-3) block semantic <article>
-4) head element <title>
-5) interactive simple <a>
-6) interactive adv <details>
-7) media <audio>
-8) misc <ruby>
-9) depreacated <marque>
+1) inline presentational <b\>
+2) inline semantic <time\>
+3) block semantic <article\>
+4) head element <title\>
+5) interactive simple <a\>
+6) interactive adv <details\>
+7) media <audio\>
+8) misc <ruby\>
+9) depreacated <marque\>
 10) attribute -data
 
 ## Tasks
