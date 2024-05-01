@@ -18,7 +18,7 @@ A semantic tag, so really its just a matter of organizing it. It belongs in cont
 I had a question:
 In terms of using the datetime attribute... I don't really understand how it can offer to add reminders? Or is that just deprecated now? Also, since the year is specified, how does that work in terms of maintanence of a site? With time stamps I can understand, but what about like a repeat invite or something of that nature?
 
-[Link to the simple demo](/article_tag/12-simple-demo.html)
+[Link to the simple demo](/time_tag/32-simple-demo.html)
 
 ### Sources:
 [w3 school documetation](https://www.w3schools.com/tags/tag_time.asp)

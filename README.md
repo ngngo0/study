@@ -2,7 +2,7 @@
 To study HTMl
 
 1) inline presentational <b\>
-2) inline semantic <time\>
+2) ~~inline semantic <time\>~~
 3) ~~block semantic <article\>~~
 4) head element <title\>
 5) ~~interactive simple <a\>~~

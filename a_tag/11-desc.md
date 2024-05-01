@@ -37,7 +37,7 @@ Tip: Use CSS to style links: CSS Links and CSS Buttons.
 
 Use it for linking, or a placeholder for linking. Link things like images, or link to different parts of the page, or link to javascript(scary) using the href attribute. 
 
+[Link to the simple demo](https://ngngo0.github.io/study/a_tag/01desc.html)
+
 ### Sources:
 [w3 school documetation](https://www.w3schools.com/tags/tag_a.asp)
-
-[Link to the simple demo](https://ngngo0.github.io/study/a_tag/01desc.html)
