@@ -21,6 +21,10 @@ Note: The `<article>` element does not render as anything special in a browser. 
 </article>
 ```
 ### My summary:
-A semantic tag, so really its just a matter of organizing it. It belongs in contexts like forum posts, blog post, news stories and anything article-y in nature. Can be used to increase readability and be used for organized styling. 
+A semantic tag, so really its just a matter of organizing it. It belongs in contexts like forum posts, blog post, news stories and anything article-y in nature. Can be used to increase readability and be used for organized styling. Interesting to see that it is used to wrap entire artiicles in the w3 demo.
 
 [Link to the simple demo](/article_tag/12-simple-demo.html)
+
+### Sources:
+[w3 school documetation](https://www.w3schools.com/tags/tag_article.asp)
+
